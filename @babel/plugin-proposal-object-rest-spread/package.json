@@ -1,11 +1,4 @@
 {
-  "_args": [
-    [
-      "@babel/plugin-proposal-object-rest-spread@7.4.4",
-      "/home/shivanjaly/codebase/fareye-react"
-    ]
-  ],
-  "_development": true,
   "_from": "@babel/plugin-proposal-object-rest-spread@7.4.4",
   "_id": "@babel/plugin-proposal-object-rest-spread@7.4.4",
   "_inBundle": false,
@@ -28,12 +21,15 @@
     "/metro-react-native-babel-preset"
   ],
   "_resolved": "https://registry.npmjs.org/@babel/plugin-proposal-object-rest-spread/-/plugin-proposal-object-rest-spread-7.4.4.tgz",
-  "_spec": "7.4.4",
-  "_where": "/home/shivanjaly/codebase/fareye-react",
+  "_shasum": "1ef173fcf24b3e2df92a678f027673b55e7e3005",
+  "_spec": "@babel/plugin-proposal-object-rest-spread@7.4.4",
+  "_where": "/home/akhilesh/fareye_stable/fareye-react",
+  "bundleDependencies": false,
   "dependencies": {
     "@babel/helper-plugin-utils": "^7.0.0",
     "@babel/plugin-syntax-object-rest-spread": "^7.2.0"
   },
+  "deprecated": false,
   "description": "Compile object rest and spread to ES5",
   "devDependencies": {
     "@babel/core": "^7.4.4",
